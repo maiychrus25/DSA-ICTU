@@ -34,9 +34,12 @@ Dự án này bao gồm các chương trình C thực hiện các thao tác trê
 
 ## Cách Sử Dụng
 Step 1: Chọn File Cần lấy
+
 Step 2: Chọn phần Code -> Download Zip
+
 Step 3: Giải nén File vừa tải.
 
 
+
 ### Ghi chú:
-- `[MAIY07!!!]`.
+- `MAIY07!!!`.
