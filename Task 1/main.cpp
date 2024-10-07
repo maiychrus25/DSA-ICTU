@@ -104,7 +104,6 @@ void divideTwoList(List **list, List **positiveList, List **negativeList) {
             (*positiveList)->elems[(*positiveList)->size++] = x; 
         }
     }
-    
     (*list)->size = 0; 
 }
 
