@@ -104,7 +104,6 @@ void divideTwoList(List **list, List **positiveList, List **negativeList) {
             (*positiveList)->elems[(*positiveList)->size++] = x; 
         }
     }
-    
     (*list)->size = 0; 
 }
 
@@ -161,7 +160,7 @@ void runTests() {
   
   display(list);
 
-  // Test 6: Thực hiện tách list thành 2 list chứa số âm và số dương
+  // Test 6: Thực hiện tách list thành 2 list chứa số âm và số dương.
   List *negativeList;
   List *positiveList;
   divideTwoList(&list, &positiveList, &negativeList);

@@ -1,7 +1,7 @@
 # Chương Trình Ngăn Xếp và Hàng Đợi
 
 ## Mô Tả
-Dự án này bao gồm các chương trình C thực hiện các thao tác trên ngăn xếp và hàng đợi chứa các số nguyên, cũng như danh sách liên kết và danh sách kế tiếp. Các chức năng bao gồm thêm, lấy, hiển thị và chuyển đổi số từ hệ thập phân sang hệ nhị phân.
+Repo này bao gồm các chương trình C thực hiện các thao tác trên ngăn xếp và hàng đợi chứa các số nguyên, cũng như danh sách liên kết và danh sách kế tiếp. Các chức năng bao gồm thêm, lấy, hiển thị và chuyển đổi số từ hệ thập phân sang hệ nhị phân.
 
 ## Nội Dung
 1. **Ngăn Xếp**
@@ -42,4 +42,4 @@ Step 3: Giải nén File vừa tải.
 
 
 ### Ghi chú:
-- `MAIY07!!!`.
+- Author: `MAIY07!!!`.
