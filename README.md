@@ -1,40 +1,5 @@
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cấu Trúc Dữ Liệu</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        h1 {
-            font-size: 2em;
-        }
-        h2 {
-            font-size: 1.5em;
-        }
-        h3 {
-            font-size: 1.2em;
-        }
-        ul {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-    </style>
-</head>
 <body>
 
 <h1>Cấu Trúc Dữ Liệu</h1>
