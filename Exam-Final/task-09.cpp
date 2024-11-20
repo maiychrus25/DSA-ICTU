@@ -69,6 +69,27 @@ int countOddAndDivisibleByThree(Node *head) {
 	return countOddAndDivisibleByThree(head->next);
 }
 
+void input(Node **head) {
+  printf("Nhap so luong phan tu: ");
+  int n; scanf("%d", &n);
+
+  for (int i = 0; i < n; ++i) {
+    printf("Nhap gia tri thu: %d= ", i + 1);
+    int x; scanf("%d", &x);
+    insertHead(head, x);
+}
+
+void display(Node *head) {
+  printf("Cac phan tu trong danh sach: \n");
+  while (head != NULL) {
+    printf("%d ", head->data);
+    head = head->next;
+  }
+}
+
 int main() {
+  Node *head = NULL;
+  input(&head);
+  display(head);
 	return 0;
 }
