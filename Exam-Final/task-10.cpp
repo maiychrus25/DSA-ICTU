@@ -102,7 +102,7 @@ void display(Node *head) {
 
 int main() {
 	Node *head = NULL;
-    input(&head);
-    display(head);
+  input(&head);
+  display(head);
 	return 0;
 }
